@@ -1,0 +1,7 @@
+.git
+.gitignore
+.DS_Store
+Makefile
+README.md
+__pycache__/
+home/
