@@ -3,3 +3,4 @@ pandas==0.25.1
 ipython==7.8.0
 jupyter-core==4.5.0
 notebook==6.0.1
+matplotlib==3.0.1
